@@ -23,23 +23,18 @@ I’m especially passionate about solving one problem:
 
 ## 🛠️ Tech & Tools
 
-| Frontend | Backend | Design & Tools |
-|----------|--------|----------------|
-| React.js | Node.js | Figma |
-| Next.js | Express.js | Miro |
-| Tailwind CSS | REST APIs | Notion |
-| JavaScript (ES6+) | JWT | Git & GitHub |
-| HTML5 & CSS3 |  | VS Code / Cursor |
-| Context API |  | Postman |
-|  |  | Vercel |
-|  |  | WordPress / Elementor / WooCommerce |
-
-| Database | Animation |  |
-|----------|----------|--|
-| MongoDB | Motion (Framer Motion) |  |
-| Mongoose |  |  |
-| localStorage |  |  |
-
+| Frontend | Backend | Database | Design | Tools & Animation |
+|----------|--------|----------|--------|-------------------|
+| React.js | Node.js | MongoDB | Figma | Git |
+| Next.js | Express.js | Mongoose | Miro | GitHub |
+| Tailwind CSS | REST APIs | localStorage | Notion | VS Code |
+| JavaScript (ES6+) | JWT |  |  | Cursor |
+| HTML5 & CSS3 |  |  |  | Postman |
+| Context API |  |  |  | Vercel |
+|  |  |  |  | WordPress |
+|  |  |  |  | Elementor |
+|  |  |  |  | WooCommerce |
+|  |  |  |  | Motion (Framer Motion) |
 ---
 
 ## 📫 Let's Connect
