@@ -60,8 +60,8 @@ I’m especially passionate about solving one problem:
 ## 📫 Let's Connect
 
 - 📧 Email: debajoyti5000@gmail.com  
-- 🌐 Portfolio: [Link]([url](http://debajoytipaul.mtrench.com/)) 
-- 💼 LinkedIn: [Link]([url](https://www.linkedin.com/in/paul-debajoyti/))
+- 🌐 Portfolio: [Visit](http://debajoytipaul.mtrench.com/)
+- 💼 LinkedIn: [Visit](http://debajoytipaul.mtrench.com/)
 
 ---
 
