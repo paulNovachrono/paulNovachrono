@@ -23,37 +23,22 @@ I’m especially passionate about solving one problem:
 
 ## 🛠️ Tech & Tools
 
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Context API
+| Frontend | Backend | Design & Tools |
+|----------|--------|----------------|
+| React.js | Node.js | Figma |
+| Next.js | Express.js | Miro |
+| Tailwind CSS | REST APIs | Notion |
+| JavaScript (ES6+) | JWT | Git & GitHub |
+| HTML5 & CSS3 |  | VS Code / Cursor |
+| Context API |  | Postman |
+|  |  | Vercel |
+|  |  | WordPress / Elementor / WooCommerce |
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-
-### Database
-- MongoDB
-- Mongoose
-- localStorage
-
-### Design & Tools
-- Figma
-- Miro
-- Notion
-- Git & GitHub
-- VS Code / Cursor
-- Postman
-- Vercel
-- WordPress / Elementor / WooCommerce
-
-### Animation
-- Motion (Framer Motion)
+| Database | Animation |  |
+|----------|----------|--|
+| MongoDB | Motion (Framer Motion) |  |
+| Mongoose |  |  |
+| localStorage |  |  |
 
 ---
 
