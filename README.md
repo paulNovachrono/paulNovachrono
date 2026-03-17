@@ -10,7 +10,7 @@ I’m especially passionate about solving one problem:
 
 ## 🚀 What I'm Working On
 
-- 🔥 Building **Reline** - a modern UI library for React & Next.js  
+- 🔥 Building **[Reline](https://x.com/relinehq)** - a modern UI library for React & Next.js  
   Focused on real-world sections, micro-interactions, and premium design
 
 - 💻 Working as a **Frontend Developer**  
