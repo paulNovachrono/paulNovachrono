@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Debajoyti Paul
+# 👋 Hi, I'm [Debajoyti Paul](https://x.com/pauldebajoyti)
 
 Frontend Developer & UI Designer from Kolkata, India.  
-I love crafting clean, high-converting interfaces and turning ideas into real, usable products.
+I build converting landing pages for fast moving startups.
 
 I’m especially passionate about solving one problem:  
 **bad design in the web industry.**
