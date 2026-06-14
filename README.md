@@ -40,7 +40,7 @@ I’m especially passionate about solving one problem:
 ## 📫 Let's Connect
 
 - 📧 Email: debajoyti5000@gmail.com  
-- 🌐 Portfolio: [Visit](http://debajoytipaul.mtrench.com/)
+- 🌐 Portfolio: [Visit](https://debajoyti.vercel.app/)
 - 💼 LinkedIn: [Visit](http://debajoytipaul.mtrench.com/)
 
 ---
