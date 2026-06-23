@@ -1,7 +1,7 @@
 # 👋 Hi, I'm [Debajoyti Paul](https://x.com/pauldebajoyti)
 
-Frontend Developer & UI Designer from Kolkata, India.  
-I build converting landing pages for fast moving startups.
+Design engineer & full-stack developer from Kolkata, India.  
+I build converting landing pages and full-stack webapps for fast moving startups.
 
 I’m especially passionate about solving one problem:  
 **bad design in the web industry.**
