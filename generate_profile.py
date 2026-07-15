@@ -69,7 +69,7 @@ THEMES = {
     },
 }
 
-W, H = 980, 620
+W, H = 980, 720
 ART_X, ART_Y = 30, 86
 ART_CW = 3.9
 ART_LH = ART_CW * 1.72
@@ -208,7 +208,7 @@ def render(theme_name, colors, stats, ist_now):
         f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.1:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
-        f'<tspan class="val" dx="8">open to freelance & remote full-stack roles</tspan>'
+        f'<tspan class="val" dx="8">open to freelance &amp; remote full-stack roles</tspan>'
         f'<tspan class="cur" dx="8">█</tspan></text>'
     )
     parts.append(
