@@ -17,10 +17,10 @@ def load_portrait():
     return ["[ portrait.txt missing ]"]
 
 INFO = [
-    ("__header__", "debajoyti paul", ""),
+    ("__header__", "Debajoyti Paul", ""),
     ("__rule__", "", ""),
     ("Role",     "Design Engineer & Full-stack Developer", "val"),
-    ("Work",     "Full-stack Developer @ Proclivity Digitech", "val"),
+    ("Work",     "Full-stack Developer @ Nodetech", "val"),
     ("Focus",    "UI-focused Full-stack · High-converting web", "accent"),
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
